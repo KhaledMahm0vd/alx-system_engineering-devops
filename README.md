@@ -4,7 +4,7 @@ alx-system engineering-devops
 by Khaled Mahmoud
 
 |Project|Description|
-|***|***|
+|-------|-----------|
 |0x00|...|
 |0x01|...|
 |0x02|...|
