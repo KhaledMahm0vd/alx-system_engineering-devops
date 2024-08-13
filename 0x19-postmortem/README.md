@@ -33,5 +33,5 @@ Tasks:
  Add memory usage alerts to the monitoring system with thresholds for early warning.
  Conduct a code review process focused on performance and memory management for all new features.
  Create a runbook for quicker rollbacks during future incidents.
- ![The Great Memory Leak Adventure](/diagram.png)
+ ![The Great Memory Leak Adventure](/0x19-postmortem/diagram.png)
 
