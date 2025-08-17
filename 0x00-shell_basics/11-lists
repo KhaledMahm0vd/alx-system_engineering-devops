@@ -1,4 +1,2 @@
 #!/bin/bash
-ls -lah
-ls -lah ..
-ls -lah /boot/
+ls -lah $PWD ls -lah .. ls -lah /boot/
