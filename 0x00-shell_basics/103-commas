@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -am --sort=name  --group-directories-first
+ls -amp --sort=name  --group-directories-first
