@@ -1,2 +1,2 @@
 #!/bin/bash
-mv -v [A-Z]* /tmp/u/ 2>/dev/null
+find . -maxdepth 1 -type f -name '[A-Z]*' -exec mv -v {} /tmp/u/ \;
