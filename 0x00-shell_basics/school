@@ -1,3 +1,4 @@
 #!/bin/bash
 # school.magic
-0 string SCHOOL School data file
+# MAGIC file for School data
+0      string          SCHOOL          School data file
