@@ -1,2 +1,2 @@
 #!/bin/bash
-mv -v +([[:upper:]])* /tmp/u/ 2>/dev/null
+mv -v +([[upper:]])* /tmp/u/ 2>/dev/null
