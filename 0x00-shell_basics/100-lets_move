@@ -1,2 +1,2 @@
 #!/bin/bash
-mv -v +([[upper:]])* /tmp/u/ 2>/dev/null
+find . -maxdepth 1 -type f -regex './[A-Z][^/]*' -exec mv -v {} /tmp/u/ \
