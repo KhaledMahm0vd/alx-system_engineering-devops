@@ -1,0 +1,2 @@
+#!/bin/bash
+mkdir -p /tmp/u && mv -v [A-Z]* /tmp/u/ 2>/dev/null
