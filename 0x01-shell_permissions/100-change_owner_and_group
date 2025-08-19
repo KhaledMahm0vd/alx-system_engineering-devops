@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chown vincent . | xargs chgrp staff .
+sudo chown vincent:staff .
